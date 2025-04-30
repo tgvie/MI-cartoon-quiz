@@ -7,7 +7,7 @@ import { startTimer, stopTimer, timeTaken } from './modules/timer';
 // -----------------------------------------------------------------------------
 const playGameBtn  = document.querySelector('#playGameBtn');
 const logoInHeader = document.querySelector('#logoInHeader');
-const HOME_PAGE = 'https://medieinstitutet.github.io/fed24d-js-intro-inl-2-quiz-duble-fun/';
+const HOME_PAGE = 'https://tgvie.github.io/MI-cartoon-quiz/';
 
 let currentScore = 0;
 
