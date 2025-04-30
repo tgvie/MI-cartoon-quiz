@@ -1,85 +1,56 @@
-# Cartoon Quiz
+# 👶 Cartoon Quiz
 
-This project was developed as a school group-project at Medieinstitutet. 
+**🔗 Demo: https://tgvie.github.io/MI-cartoon-quiz/**
 
-The aim was to create a quiz in theme of choice.
-We chose to create a quiz about cartoons because it felt fun to play with happy colors.
+This project is a fun cartoon-themed quiz we built together as a school group project.
 
-Troughout this project we focused on learning how to work as a group, both individually and pair coding. I hope you enjoy. 
+- There are 20 questions in total, and each round shows 10 random ones
+- Every question has 3 answer choices — but only one is right!
+- If you play again, you’ll get a different set of questions
+- There’s a timer that tracks how long you take, and you’ll see your score at the end
 
-## Requirements for this assigment
+We had a great time making it and hope you enjoy playing it too! 😊
 
-* Create a quiz with 20 questions
-* Each question should have 3 answer options, and only 1 option should be correct.
-* The questions should be presented in random order, with 10 questions shown per round.
-* If the user chooses to play again, the same 10 questions should not appear again.
-* Points should be awarded for correct answers.
-* Only one question should be displayed at a time on the screen.
-* Timer (counting upwards). The timer should stop once all questions have been answered.
-* A confirmation box should display the number of correct answers (out of the total number of questions) and the total time taken.
-* Each person should have made at least two pull requests.
-* Work with the project according to the agile method, SCRUM. 
+<details>
+<summary><strong>📐 Wireframes</strong></summary>
 
+| Start page | Question page | Result page |
+| -- | -- | -- |
+| ![Start page](assets/wireframe/cartoon_quiz_wireframe_playgame.png) | ![Question page](assets/wireframe/cartoon_quiz_wireframe_questions.png) | ![Result page](assets/wireframe/cartoon_quiz_wireframe_result.png) |
+</details>
 
-## Live published site
+## 🖼️ Preview
 
-[Click here for live published version](https://medieinstitutet.github.io/fed24d-js-intro-inl-2-quiz-duble-fun/)
+| 📱 Phone | 💻 Desktop |
+| -------- | ----------- | 
+| ![Desktop Screenshot Light](assets/preview-phone.png) | ![Desktop Screenshot Dark](assets/preview-desktop.png) |
+| ![Desktop Screenshot Light](assets/preview-phone-2.png) | ![Desktop Screenshot Dark](assets/preview-desktop-2.png) |
 
-**Language: English**
+## 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)
 
+## 📋 Documentation
+<details>
+<summary><strong>Lighthouse Report</strong></summary>
 
-## Sneak peak
+| Desktop |
+| ------- |
+| ![Desktop Lighthouse Report](assets/lighthouse_report.png) |
+</details>
 
-![App Screenshot](assets/cartoon_quiz_preview.png)
+<div align="right">
+  
+## ✍️ Author/s
+🧑‍💻 [@matildasoderhall](https://github.com/matildasoderhall)
+🧑‍💻 [@mikaelakihl](https://github.com/mikaelakihl)
+🧑‍💻 [@NicoleSilfverling](https://github.com/NicoleSilfverling)
+🧑‍💻 [@tgvie](https://github.com/tgvie)
 
-
-## Tech Stack
-
-**HTML** | **JavaScript** | **TypeScript** | **SCSS** | **Prettier** | **EsLint** | **Vite**
-
-## Color References
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Primary color | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
-| Secondary color | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #ffffff |
-| Wrong answer color | ![#ff0000](https://via.placeholder.com/10/ff0000?text=+) #ff0000 |
-| Right answer color | ![#008000](https://via.placeholder.com/10/008000?text=+) #008000 |
-| Hover Color | ![#00800030](https://via.placeholder.com/10/00800030?text=+) #00800030 |
-
-| Linear gradient            | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| 0% | ![#dcf26e](https://via.placeholder.com/10/dcf26e?text=+) #dcf26e |
-| 37% | ![#61fa74](https://via.placeholder.com/10/61fa74?text=+) #61fa74 |
-| 100% | ![#1cfdd6](https://via.placeholder.com/10/1cfdd6?text=+) #1cfdd6 |
-
-## Fonts
-
-| Font             |                                                                 |
-| ----------------- | ------------------------------------------------------------------ |
-| Primary font | "Coming Soon", serif;  |
-| Secondary font | "Moo Lah Lah", serif; |
-
-## Validation & a11y
-
-### HTML
-
-![Se bilden här](assets/reports/html_validation.png)
-
-### CSS 
-
-![Se bilden här](assets/reports/css_validation-1.png)
-
-### Lighthouse Analyze
-
-![Se bilden här](assets/reports/lighthouse_report-1.png)
-
-## Authors
-
-|             |                                                               |
-| ----------------- | ------------------------------------------------------------------ |
-| Mikaela Kihl |  |
-| Matilda Söderhäll | |
-| Nicole Sjöberg-Silfverling | |
-| Vy Petersson|  |
-| Sokol Hatija|  |
+</div>
