@@ -36,6 +36,8 @@ We had a great time making it and hope you enjoy playing it too! 😊
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)
 
+<hr>
+
 ## 📋 Documentation
 <details>
 <summary><strong>Lighthouse Report</strong></summary>
